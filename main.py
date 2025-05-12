@@ -11,7 +11,7 @@ parameters = {
 }
 headers = {
   'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': 'Your_api_key',  #replace api_key from coinmarketcap
+  'X-CMC_PRO_API_KEY': 'Your_api_key',  #replace Your_api_key from coinmarketcap
 }
 
 session = Session()
